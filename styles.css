@@ -51,7 +51,7 @@ footer {
     padding: 0.5rem;
     background-color:  rgb(143, 180, 223);
     text-align: center;
-   height: 120px;
+   height: 110px;
 }
 
 h1{
@@ -70,7 +70,7 @@ font-family: 'Castoro', serif;
 }
 
 .footer-heading{
-    font-size: x-large;
-    margin-bottom: 0.5rem;
-    margin-top: 0.5rem;
+    font-size: large;
+    margin-bottom: 0.3rem;
+    margin-top: 0.3rem;
 }
