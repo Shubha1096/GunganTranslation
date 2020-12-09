@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Castoro', serif;
+    color: #333333;
+}
+
+main {
+    margin: auto;
+    padding: 1rem;
+    max-width: 600px;
+}
+
+textarea {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    min-height: 15vh;
+    margin-top: 0.5rem;
+    font-size: large;
+    font-family: inherit;
+    border: 1px solid black ;
+}
+
+button {
+    background-color: rgb(192, 219, 247) ;
+    border: black;
+    margin: 1rem 0rem;
+    padding: 1rem 1rem;
+    font-family: 'Kalam', cursive;
+    font-size: large;
+}
+
+
+#converted-output {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 15vh;
+    max-height: 30vh;
+    overflow:scroll;
+    border: 1px solid black;
+    padding: 1rem; 
+    font-size: large;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 0.5rem;
+    background-color:  rgb(143, 180, 223);
+    text-align: center;
+   height: 120px;
+}
+
+h1{
+
+text-align: center;
+background-color: rgb(143, 180, 223);
+text-align: 40%;
+padding-bottom: 1rem;
+padding-top: 1rem;
+font-size: 250%;
+font-family: 'Castoro', serif;
+}
+
+.convert-btn{
+    text-align: center;
+}
+
+.footer-heading{
+    font-size: large;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
