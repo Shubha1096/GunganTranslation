@@ -4,6 +4,7 @@ body {
     margin: 0;
     font-family: 'Castoro', serif;
     color: #333333;
+
 }
 
 main {
@@ -45,13 +46,13 @@ button {
 }
 
 footer {
-    position: fixed;
+    position: absolute  ;
     bottom: 0;
     width: 100%;
     padding: 0.5rem;
     background-color:  rgb(143, 180, 223);
     text-align: center;
-   height: 110px;
+   height: 110  px;
 }
 
 h1{
