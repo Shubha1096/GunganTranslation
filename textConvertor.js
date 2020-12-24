@@ -2,7 +2,7 @@ var btnTranslate = document.querySelector("#convert-button");
 var txtInput = document.querySelector("#input");
 var outputDiv = document.querySelector("#converted-output");
 
-var serverURL = "https://api.funtranslations.com/translate/circled-text.json"
+var serverURL = "https://api.funtranslations.com/translate/gungan.json"
 
 function ConversionURL(input) {
     return serverURL + "?" + "text=" + input
